@@ -19,6 +19,15 @@
 ## R
 ## Power BI
 # Education
+**Sirindhorn International Institute of Technology (SIIT), Thammasat University**
+* Bachelor of Engineering - BE, Digital Engineering (Data Science)
+* GPA: 3.19
+* Duration: 2020 - 2024
+
+**Exchange Program**
+* ISEP - Institut supérieur d'électronique de Paris (Paris, France)
+* Bachelor of Engineering - BE, Digital Engineering (Exchange Student)
+* Duration: Feb 2024 - Jun 2024
 
 # Work Experience
 

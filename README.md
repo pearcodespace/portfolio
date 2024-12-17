@@ -3,10 +3,6 @@
 # Table of Contents
 - [About](#About)
 - [Projects](#Projects)
-   - [Python](#Python)
-   - [SQL](#SQL)
-   - [R](#R)
-   - [Power BI](#PowerBI)
 - [Education](#Education)
 - [Work Experience](#WorkExperience)
 - [Certificates](#Certificates)
@@ -14,10 +10,7 @@
 # About
 
 # Projects
-## Python
-## SQL
-## R
-## Power BI
+
 # Education
 **Sirindhorn International Institute of Technology (SIIT), Thammasat University**
 * Bachelor of Engineering - BE, Digital Engineering (Data Science)

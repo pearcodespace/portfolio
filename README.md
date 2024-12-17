@@ -42,4 +42,4 @@
 # Contacts
 **yanisapareephan@gmail.com**
 * 061-737-1221
-* [[LinkedIn](https://www.linkedin.com/in/yanisa-pareephan-5a4552270/)]([https://www.linkedin.com/in/yanisapareephan](https://www.linkedin.com/in/yanisa-pareephan-5a4552270/))
+* [LinkedIn](https://www.linkedin.com/in/yanisa-pareephan)

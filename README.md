@@ -13,7 +13,7 @@
 # About
 
 # Projects
-### Data Analysis & Machine Learning
+## Data Analysis & Machine Learning
 **Sales Analytics Project | 2024**
 
 * Extracted and cleaned sales data from various sources. 
@@ -58,9 +58,31 @@
 * Contributed to decision-making in meteorology, agriculture, and public health.
 * Python
 
-### Web Development
+## Web Development
 
-### Other Potential Projects
+**All You Can Eat Food Delivery Service Application | 2024**
+
+* Developed a scalable and secure food delivery platform using the MERN stack (MongoDB, Express.js, React, Node.js) and Spring Boot.
+* Designed with MVC architecture for improved maintainability and scalability.
+* Utilized MongoDB for flexible data storage and MySQL for efficient order management.
+* Integrated React and Tailwind CSS to enhance user experience with a modern and intuitive interface.
+* Implemented user authentication, order processing, and Stripe payments to streamline operations and drive customer satisfaction.
+
+**Wear&Share Project | 2022**
+
+* Created a prototype for the "Wear&Share" application using Figma to address contemporary issues of waste reduction and promote sustainability.
+* Designed user-friendly interfaces and user flows for the application.
+
+**YARBar Project | 2022**
+
+* Simulated branding and website design for a fictional business.
+* Conducted customer surveys to gather user feedback and preferences.
+* Implemented communication strategies through various channels:
+    * Line OA (Official Account) for customer engagement.
+    * Chatbot auto-reply using Dialogflow for efficient customer support.
+    * Messaging API for personalized communication.
+
+## Other Potential Projects
 
 **BubieMail  | 2023**
 

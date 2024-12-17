@@ -3,6 +3,9 @@
 # Table of Contents
 - [About](#About)
 - [Projects](#Projects)
+  - [Data Analysis & Machine Learning](#DataAnalysis&MachineLearning)
+  - [Web Development](#WebDevelopment])
+  - [Other Potential Projects](#OtherPotentialProjects)
 - [Education](#Education)
 - [Work Experience](#WorkExperience)
 - [Certificates](#Certificates)
@@ -10,6 +13,7 @@
 # About
 
 # Projects
+### Data Analysis & Machine Learning
 **Sales Analytics Project | 2024**
 
 * Extracted and cleaned sales data from various sources. 
@@ -53,7 +57,19 @@
 * Analyzed local climate patterns using AI-assisted analytics on data from the Automated Street Light Adjustment System.
 * Contributed to decision-making in meteorology, agriculture, and public health.
 * Python
-  
+
+### Web Development
+
+### Other Potential Projects
+
+**BubieMail  | 2023**
+
+**Developed a secure email communication platform with enhanced security features:**
+
+* Implemented RSA encryption and digital signatures to ensure the confidentiality, authenticity, and integrity of messages.
+* Designed and implemented end-to-end encryption workflows for account creation, message composition, and verification.
+* Provided a robust and secure communication solution for users.
+
 # Education
 **Sirindhorn International Institute of Technology (SIIT), Thammasat University**
 * Bachelor of Engineering - BE, Digital Engineering (Data Science)

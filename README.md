@@ -30,7 +30,16 @@
 * Duration: Feb 2024 - Jun 2024
 
 # Work Experience
+### KPMG Thailand Data and Analytics Internship
+
+**Duration:** Jun 2023 - Jul 2023
+
+* **ESG Data Analysis:** Applied web scraping techniques to gather and preprocess ESG data from various sources. Utilized the extracted insights to support the Generative AI project team in achieving their objectives.
+* **AHP Methodology:** Researched the Analytic Hierarchy Process (AHP) and developed tools to facilitate its implementation. Presented AHP concepts to employees through a comprehensive presentation, fostering knowledge exchange and improving decision-making processes. This initiative led to a reduction in workload and increased employee efficiency.
 
 # Certificates
 
 # Contacts
+**yanisapareephan@gmail.com**
+* 061-737-1221
+* [![LinkedIn](https://www.linkedin.com/in/yanisapareephan)](https://www.linkedin.com/in/yanisapareephan)

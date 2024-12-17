@@ -1,12 +1,12 @@
 # Yanisa Pareephan - Portfolio
 
 # Table of Contents
-[About](#About)
-[Projects](#Projects)
-[Education](#Education)
-[Work Experience](#Work Experience)
-[Certificates](#Certificates)
-[Contacts](#Contacts)
+- [About](#About)
+- [Projects](#Projects)
+- [Education](#Education)
+- [Work Experience](#WorkExperience)
+- [Certificates](#Certificates)
+- [Contacts](#Contacts)
 # About
 
 # Projects

@@ -15,6 +15,7 @@
 # Projects
 ## Data Analysis & Machine Learning
 **Sales Analytics Project | 2024**
+[Sales Analytics Project](SalesAnalytics.md)
 
 * Extracted and cleaned sales data from various sources. 
 * Developed an interactive dashboard to:

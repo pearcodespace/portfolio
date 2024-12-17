@@ -40,6 +40,6 @@
 # Certificates
 
 # Contacts
-**yanisapareephan@gmail.com**
+* yanisapareephan@gmail.com
 * 061-737-1221
 * [LinkedIn](https://www.linkedin.com/in/yanisa-pareephan)

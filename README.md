@@ -26,7 +26,7 @@
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
 * SQL, Python, Power BI
-* 
+  
 **Detection of AI-Generated Speech | 2023**
 
 * Leveraged TorToiSe TTS for superior voice replication and detection.

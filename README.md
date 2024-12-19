@@ -31,8 +31,8 @@
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
 * SQL, Python, Power BI
   
-**[Detection of AI-Generated Speech](https://docs.google.com/document/d/1Sy02ZNO4LFwSCJPOd51T2KeqzgGYT6i90g-USUPA20s/edit?usp=sharing) | 2023**
-
+**Detection of AI-Generated Speech | 2023**
+[Document](https://docs.google.com/document/d/1DkTlKXliI2uG1Sg9tkB0aYTJ8YW2SeR9rYSS1f7etEo/edit?usp=sharing)
 * Leveraged TorToiSe TTS for superior voice replication and detection.
 * Demonstrated the limitations of DNNs and achieved higher accuracy with TorToiSe.
 * Integrated the system with Streamlit for easy user interaction.

@@ -81,7 +81,7 @@ This repository showcases my projects, tracks my progress, and highlights my jou
 * Utilized MongoDB for flexible data storage and MySQL for efficient order management.
 * Integrated React and Tailwind CSS to enhance user experience with a modern and intuitive interface.
 * Implemented user authentication, order processing, and Stripe payments to streamline operations and drive customer satisfaction.
-* `Java Spring Boot, SQL, MongoDB, Express.js, React, Node.js`
+* `Java Spring Boot, SQL, MongoDB, Express.js, React, Node.js, API`
 
 **YARBar Project** | 
 [Document](https://www.canva.com/design/DAFeAl5xz0g/K7uXR8Z_whXOo9iWTyrqzQ/view?utm_content=DAFeAl5xz0g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h67febcd987)

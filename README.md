@@ -23,7 +23,7 @@
     * Compare actual sales to targets.
     * Track conversion rates.
     * Measure repeat customer rates.
-⚙️ SQL, Power BI
+⚙ SQL, Power BI
 
 **Marketing Analytics Project** | 
 [Code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics) | 

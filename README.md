@@ -15,7 +15,7 @@
 # Projects
 ## Data Analysis & Machine Learning
 **Sales Analytics Project** | 
-[code](./SalesAnalytics)
+[code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Sales%20Analytics)
 * Extracted and cleaned sales data from various sources. 
 * Developed an interactive dashboard to:
     * Monitor monthly sales growth.
@@ -25,7 +25,7 @@
 * SQL, Power BI
 
 **Marketing Analytics Project** | 
-[code](./MarketingAnalytics)
+[code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics)
 * Managed marketing data extraction and cleaning.
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.

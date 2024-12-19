@@ -16,7 +16,7 @@
 **Sales Analytics Project** | 
 [Code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Sales%20Analytics) | 
 [Dashboard](https://github.com/pearcodespace/portfolio/blob/2fdc6a0928d866284e8b880478085a641ce96a9e/Sales%20Analytics/Sales%20Analytics.pbix)
-![image](https://github.com/user-attachments/assets/a3816596-99e4-4c4f-8b22-45179093a067)
+![image](https://github.com/user-attachments/assets/a3816596-99e4-4c4f-8b22-45179093a067){width: 300px}
 * Extracted and cleaned sales data from various sources. 
 * Developed an interactive dashboard to:
     * Monitor monthly sales growth.
@@ -24,15 +24,16 @@
     * Track conversion rates.
     * Measure repeat customer rates.
 * `SQL, Power BI`
+  ![image](https://github.com/user-attachments/assets/a3816596-99e4-4c4f-8b22-45179093a067)
 
 **Marketing Analytics Project** | 
 [Code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics) | 
 [Dashboard](https://github.com/pearcodespace/portfolio/blob/2fdc6a0928d866284e8b880478085a641ce96a9e/Marketing%20Analytics/Marketing%20Analytics.pbix)
-![image](https://github.com/user-attachments/assets/75b41698-72dc-44b1-8a12-16482a8a54fa)
 * Managed marketing data extraction and cleaning.
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
 * `SQL, Python, Power BI`
+  ![image](https://github.com/user-attachments/assets/75b41698-72dc-44b1-8a12-16482a8a54fa){width: 300px}
   
 **Detection of AI-Generated Speech** | 
 [Document](https://docs.google.com/document/d/1DkTlKXliI2uG1Sg9tkB0aYTJ8YW2SeR9rYSS1f7etEo/edit?usp=sharing)

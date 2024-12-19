@@ -34,7 +34,7 @@
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
 * `SQL, Python, Power BI`
   
-  ![image](https://github.com/user-attachments/assets/75b41698-72dc-44b1-8a12-16482a8a54fa){width: 300px}
+  ![image](https://github.com/user-attachments/assets/75b41698-72dc-44b1-8a12-16482a8a54fa)
   
 **Detection of AI-Generated Speech** | 
 [Document](https://docs.google.com/document/d/1DkTlKXliI2uG1Sg9tkB0aYTJ8YW2SeR9rYSS1f7etEo/edit?usp=sharing)

@@ -15,7 +15,8 @@
 # Projects
 ## Data Analysis & Machine Learning
 **Sales Analytics Project** | 
-[code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Sales%20Analytics)
+[code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Sales%20Analytics) | 
+[Dashboard]([https://app.powerbi.com/links/Ec5xc_fqtQ?ctid=0a43deb9-efb0-4f46-8594-71899230fda6&pbi_source=linkShare](https://app.powerbi.com/reportEmbed?reportId=6b88d8de-0a6e-4adf-a8a7-a42b1662a357&autoAuth=true&ctid=0a43deb9-efb0-4f46-8594-71899230fda6))
 * Extracted and cleaned sales data from various sources. 
 * Developed an interactive dashboard to:
     * Monitor monthly sales growth.
@@ -25,7 +26,8 @@
 * SQL, Power BI
 
 **Marketing Analytics Project** | 
-[code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics)
+[code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics) | 
+[Dashboard](https://app.powerbi.com/reportEmbed?reportId=77a4e415-ca7f-47c1-9ab0-7d21afef4659&autoAuth=true&ctid=0a43deb9-efb0-4f46-8594-71899230fda6)
 * Managed marketing data extraction and cleaning.
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
@@ -107,8 +109,6 @@
 
 * **ESG Data Analysis:** Applied web scraping techniques to gather and preprocess ESG data from various sources. Utilized the extracted insights to support the Generative AI project team in achieving their objectives.
 * **AHP Methodology:** Researched the Analytic Hierarchy Process (AHP) and developed tools to facilitate its implementation. Presented AHP concepts to employees through a comprehensive presentation, fostering knowledge exchange and improving decision-making processes. This initiative led to a reduction in workload and increased employee efficiency.
-
-# Certificates
 
 # Contacts
 * yanisapareephan@gmail.com

@@ -95,7 +95,6 @@
 # Education
 **Sirindhorn International Institute of Technology (SIIT), Thammasat University**
 * Bachelor of Engineering - BE, Digital Engineering (Data Science)
-* GPA: 3.19
 * Duration: 2020 - 2024
 
 **Exchange Program**

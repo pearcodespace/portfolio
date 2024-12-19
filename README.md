@@ -85,8 +85,7 @@
 
 **BubieMail** | 
 [Document](https://drive.google.com/file/d/1L0exq4CfIZQ4GXT_EZNUcMiFKxx2eoXo/view?usp=sharing)
-**Developed a secure email communication platform with enhanced security features:**
-
+*Developed a secure email communication platform with enhanced security features:*
 * Implemented RSA encryption and digital signatures to ensure the confidentiality, authenticity, and integrity of messages.
 * Designed and implemented end-to-end encryption workflows for account creation, message composition, and verification.
 * Provided a robust and secure communication solution for users.

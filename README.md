@@ -23,7 +23,7 @@
     * Compare actual sales to targets.
     * Track conversion rates.
     * Measure repeat customer rates.
-* SQL, Power BI
+⚙️ SQL, Power BI
 
 **Marketing Analytics Project** | 
 [Code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics) | 
@@ -31,21 +31,21 @@
 * Managed marketing data extraction and cleaning.
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
-* SQL, Python, Power BI
+⚙️ SQL, Python, Power BI
   
 **Detection of AI-Generated Speech** | 
 [Document](https://docs.google.com/document/d/1DkTlKXliI2uG1Sg9tkB0aYTJ8YW2SeR9rYSS1f7etEo/edit?usp=sharing)
 * Leveraged TorToiSe TTS for superior voice replication and detection.
 * Demonstrated the limitations of DNNs and achieved higher accuracy with TorToiSe.
 * Integrated the system with Streamlit for easy user interaction.
-* Python, Streamlit
+⚙️ Python, Streamlit
   
 **Next-Day Rainfall Prediction Using ANN** | 
 [Document](https://docs.google.com/document/d/1qGLO0NMACYwWtewJZd0w8J89HSlUCcFBqvuV0oPfPS8/edit?usp=sharing)
 * Developed an artificial neural network (ANN) model to forecast next-day rainfall.
 * Implemented data preprocessing, feature scaling, and hyperparameter tuning.
 * Enhanced accuracy through exploratory analysis and cyclic encoding.
-* Python
+⚙️ Python
 
 **MK database System Project** | 
 [Document](https://www.canva.com/design/DAFS8idV3hM/QFRLZZbCOdRBlAwpkjKANA/view?utm_content=DAFS8idV3hM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3b06b0dcee) | 
@@ -53,25 +53,25 @@
 * Analyzed the business requirements for MK restaurant operations.
 * Designed databases to meet those needs using ER diagrams and relational schemas.
 * Implemented SQL commands to create and manage the database.
-* SQL
+⚙️ SQL
   
 **Weather Data Analysis with AI at Thammasat University** | 
 [Document](https://www.canva.com/design/DAFfnkrXsYw/mJudmQpIQy4l020O5VbXqg/view?utm_content=DAFfnkrXsYw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2a86437cd2)
 * Analyzed local climate patterns using AI-assisted analytics on data from the Automated Street Light Adjustment System.
 * Contributed to decision-making in meteorology, agriculture, and public health.
-* Python
+⚙️ Python
 
 ## Web Development
 
 **All You Can Eat Food Delivery Service Application** | 
 [Document](https://docs.google.com/document/d/1PHK6JxtPpdR_9tBdKWQiF-y8_5WbsTgI11KKrFmYxC4/edit?usp=sharing) | 
 [Figma](https://www.figma.com/design/UaXRAH4RNN11rbWwJD9pn9/food_delivery)
-* Developed a scalable and secure food delivery platform using the MERN stack (MongoDB, Express.js, React, Node.js) and Spring Boot.
+* Developed a scalable and secure food delivery platform using the MERN stack and Spring Boot.
 * Designed with MVC architecture for improved maintainability and scalability.
 * Utilized MongoDB for flexible data storage and MySQL for efficient order management.
 * Integrated React and Tailwind CSS to enhance user experience with a modern and intuitive interface.
 * Implemented user authentication, order processing, and Stripe payments to streamline operations and drive customer satisfaction.
-
+⚙️ Java Spring Boot, SQL, MongoDB, Express.js, React, Node.js
 
 **YARBar Project** | 
 [Document](https://www.canva.com/design/DAFeAl5xz0g/K7uXR8Z_whXOo9iWTyrqzQ/view?utm_content=DAFeAl5xz0g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h67febcd987)
@@ -81,7 +81,7 @@
     * Line OA (Official Account) for customer engagement.
     * Chatbot auto-reply using Dialogflow for efficient customer support.
     * Messaging API for personalized communication.
-
+⚙️ Dialogflow, Line OA
 
 ## Other Potential Projects
 

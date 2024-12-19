@@ -46,7 +46,7 @@
 * Python
 
 **MK database System Project** | 
-[Document](https://www.canva.com/design/DAFS8idV3hM/QFRLZZbCOdRBlAwpkjKANA/view?utm_content=DAFS8idV3hM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3b06b0dcee)
+[Document](https://www.canva.com/design/DAFS8idV3hM/QFRLZZbCOdRBlAwpkjKANA/view?utm_content=DAFS8idV3hM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3b06b0dcee) | 
 [SQL](https://docs.google.com/document/d/1B-ag135KYoGyZ3_le58keGhLy1LFEsJDXg-64GOaK-w/edit?usp=sharing)
 * Analyzed the business requirements for MK restaurant operations.
 * Designed databases to meet those needs using ER diagrams and relational schemas.
@@ -62,7 +62,7 @@
 ## Web Development
 
 **All You Can Eat Food Delivery Service Application** | 
-[Document](https://docs.google.com/document/d/1PHK6JxtPpdR_9tBdKWQiF-y8_5WbsTgI11KKrFmYxC4/edit?usp=sharing)
+[Document](https://docs.google.com/document/d/1PHK6JxtPpdR_9tBdKWQiF-y8_5WbsTgI11KKrFmYxC4/edit?usp=sharing) | 
 [Figma](https://www.figma.com/design/UaXRAH4RNN11rbWwJD9pn9/food_delivery)
 * Developed a scalable and secure food delivery platform using the MERN stack (MongoDB, Express.js, React, Node.js) and Spring Boot.
 * Designed with MVC architecture for improved maintainability and scalability.
@@ -80,9 +80,6 @@
     * Chatbot auto-reply using Dialogflow for efficient customer support.
     * Messaging API for personalized communication.
 
-**Movie Recommender System** | 
-![image](https://github.com/user-attachments/assets/7762472f-8648-4df0-a994-4e00e39ce6a8)
-[Code]()
 
 ## Other Potential Projects
 

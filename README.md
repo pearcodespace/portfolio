@@ -16,7 +16,6 @@
 **Sales Analytics Project** | 
 [Code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Sales%20Analytics) | 
 [Dashboard](https://github.com/pearcodespace/portfolio/blob/2fdc6a0928d866284e8b880478085a641ce96a9e/Sales%20Analytics/Sales%20Analytics.pbix)
-![image](https://github.com/user-attachments/assets/a3816596-99e4-4c4f-8b22-45179093a067){width: 300px}
 * Extracted and cleaned sales data from various sources. 
 * Developed an interactive dashboard to:
     * Monitor monthly sales growth.

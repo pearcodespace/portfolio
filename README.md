@@ -4,11 +4,10 @@
 - [About](#About)
 - [Projects](#Projects)
   - [Data Analysis & Machine Learning](#Data-Analysis-&-Machine-Learning)
-  - [Web Development](#Web-Development])
+  - [Web Development](#Web-Development)
   - [Other Potential Projects](#Other-Potential-Projects)
 - [Education](#Education)
-- [Work Experience](#WorkExperience)
-- [Certificates](#Certificates)
+- [Work Experience](#Work-Experience)
 - [Contacts](#Contacts)
 # About
 

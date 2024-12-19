@@ -16,7 +16,7 @@
 ## Data Analysis & Machine Learning
 **Sales Analytics Project** | 
 [code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Sales%20Analytics) | 
-[Dashboard]([https://app.powerbi.com/links/Ec5xc_fqtQ?ctid=0a43deb9-efb0-4f46-8594-71899230fda6&pbi_source=linkShare](https://app.powerbi.com/reportEmbed?reportId=6b88d8de-0a6e-4adf-a8a7-a42b1662a357&autoAuth=true&ctid=0a43deb9-efb0-4f46-8594-71899230fda6))
+[Dashboard](https://app.powerbi.com/reportEmbed?reportId=6b88d8de-0a6e-4adf-a8a7-a42b1662a357&autoAuth=true&ctid=0a43deb9-efb0-4f46-8594-71899230fda6)
 * Extracted and cleaned sales data from various sources. 
 * Developed an interactive dashboard to:
     * Monitor monthly sales growth.

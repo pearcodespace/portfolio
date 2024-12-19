@@ -3,9 +3,9 @@
 # Table of Contents
 - [About](#About)
 - [Projects](#Projects)
-  - [Data Analysis & Machine Learning](#DataAnalysis&MachineLearning)
-  - [Web Development](#WebDevelopment])
-  - [Other Potential Projects](#OtherPotentialProjects)
+  - [Data Analysis & Machine Learning](##DataAnalysis&MachineLearning)
+  - [Web Development](##WebDevelopment])
+  - [Other Potential Projects](##OtherPotentialProjects)
 - [Education](#Education)
 - [Work Experience](#WorkExperience)
 - [Certificates](#Certificates)

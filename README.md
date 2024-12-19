@@ -23,6 +23,7 @@
     * Track conversion rates.
     * Measure repeat customer rates.
 * `SQL, Power BI`
+  
   ![image](https://github.com/user-attachments/assets/a3816596-99e4-4c4f-8b22-45179093a067)
 
 **Marketing Analytics Project** | 
@@ -32,6 +33,7 @@
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
 * `SQL, Python, Power BI`
+  
   ![image](https://github.com/user-attachments/assets/75b41698-72dc-44b1-8a12-16482a8a54fa){width: 300px}
   
 **Detection of AI-Generated Speech** | 

@@ -3,7 +3,7 @@
 # Table of Contents
 - [About](#About)
 - [Projects](#Projects)
-  - [Data Analysis & Machine Learning](#Data-Analysis-&-Machine-Learning)
+  - [Data Analysis & Machine Learning](#Data-Analysis&Machine-Learning)
   - [Web Development](#Web-Development)
   - [Other Potential Projects](#Other-Potential-Projects)
 - [Education](#Education)

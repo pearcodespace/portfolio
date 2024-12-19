@@ -22,7 +22,7 @@
     * Compare actual sales to targets.
     * Track conversion rates.
     * Measure repeat customer rates.
-⚙ SQL, Power BI
+`* SQL, Power BI`
 
 **Marketing Analytics Project** | 
 [Code](https://github.com/pearcodespace/portfolio/tree/a7879e85330ace44e7ddf59d0a5245b8021436dc/Marketing%20Analytics) | 
@@ -30,7 +30,7 @@
 * Managed marketing data extraction and cleaning.
 * Created an interactive dashboard to enhance customer targeting and improve campaign effectiveness.
 * Utilized advanced sentiment analysis with Python to gather and analyze customer reviews.
-⚙️ SQL, Python, Power BI
+`* SQL, Python, Power BI`
   
 **Detection of AI-Generated Speech** | 
 [Document](https://docs.google.com/document/d/1DkTlKXliI2uG1Sg9tkB0aYTJ8YW2SeR9rYSS1f7etEo/edit?usp=sharing)

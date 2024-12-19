@@ -10,7 +10,14 @@
 - [Work Experience](#Work-Experience)
 - [Contacts](#Contacts)
 # About
-Fresh graduate in Digital Engineering, proficient in data management, analysis, and the development of digital solutions, with a strong commitment to utilizing technology to drive sustainable development. Experienced in ESG data collection, analysis, and the creation of digital platforms that meet international standards. Skilled in machine learning, data architecture design, and data visualization, with expertise in tools such as SQL, R, Python, Tableau, Power BI, and Looker. Additionally, adept at ensuring data quality and completeness through comprehensive validation processes.
+Hi, I’m Yanisa! I recently graduated with a degree in Digital Engineering, specializing in Data Science. I am passionate about uncovering insights from data and leveraging them to drive impactful decisions.
+
+I have a strong foundation in data analytics, machine learning, and statistical analysis, with hands-on experience in web scraping, data visualization, and advanced modeling. I thrive on solving complex problems and turning data into actionable insights.
+
+This repository showcases my projects, tracks my progress, and highlights my journey in Data Analytics and Data Science.
+
+View my CV (PDF)[https://drive.google.com/file/d/1bKHxfztEMXCkEMWiz7zMvEoYkWxbQ57K/view?usp=drive_link]
+
 # Projects
 ## Data Analysis & Machine Learning
 **Sales Analytics Project** | 

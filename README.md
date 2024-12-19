@@ -10,7 +10,7 @@
 - [Work Experience](#Work-Experience)
 - [Contacts](#Contacts)
 # About
-
+Fresh graduate in Digital Engineering, proficient in data management, analysis, and the development of digital solutions, with a strong commitment to utilizing technology to drive sustainable development. Experienced in ESG data collection, analysis, and the creation of digital platforms that meet international standards. Skilled in machine learning, data architecture design, and data visualization, with expertise in tools such as SQL, R, Python, Tableau, Power BI, and Looker. Additionally, adept at ensuring data quality and completeness through comprehensive validation processes.
 # Projects
 ## Data Analysis & Machine Learning
 **Sales Analytics Project** | 

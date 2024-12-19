@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7762472f-8648-4df0-a994-4e00e39ce6a8)# Yanisa Pareephan - Data Analyst Portfolio
+# Yanisa Pareephan - Data Analyst Portfolio
 
 # Table of Contents
 - [About](#About)
@@ -81,6 +81,7 @@
     * Messaging API for personalized communication.
 
 **Movie Recommender System**
+![image](https://github.com/user-attachments/assets/7762472f-8648-4df0-a994-4e00e39ce6a8)
 [Code]()
 
 ## Other Potential Projects

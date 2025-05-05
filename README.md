@@ -113,6 +113,13 @@ This repository showcases my projects, tracks my progress, and highlights my jou
 * Duration: Feb 2024 - Jun 2024
 
 # Work Experience
+### Tata Consultancy Services (TCS) Thailand — Application Management Specialist
+
+**Duration:** Jan 2025 - Present
+
+* Delivered L1 and L2 technical support for a Commission Management system, ensuring SLA-compliant issue resolution.
+* Monitored and maintained system health using Splunk, BMC, and AWS tools.
+  
 ### KPMG Thailand Data and Analytics Internship
 
 **Duration:** Jun 2023 - Jul 2023

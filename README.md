@@ -16,7 +16,7 @@ I have a strong foundation in data analytics, machine learning, and statistical 
 
 This repository showcases my projects, tracks my progress, and highlights my journey in Data Analytics and Data Science.
 
-[View my CV (PDF)](https://drive.google.com/file/d/12icBEC94e-iH-t1a2GL4bNPaRuHrryrs/view?usp=sharing)
+[View my CV (PDF)](https://drive.google.com/file/d/1JRHSP6539UgDUnyXDexaxj3CwOBtUWrT/view?usp=sharing)
 
 # Projects
 ## Data Analysis & Machine Learning

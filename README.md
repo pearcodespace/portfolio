@@ -2,18 +2,40 @@
 
 # Table of Contents
 - [About](#About)
+- [Work Experience](#Work-Experience)
 - [Projects](#Projects)
   - [Data Analysis & Machine Learning](#data-analysis--machine-learning)
   - [Web Development](#Web-Development)
 - [Education](#Education)
-- [Work Experience](#Work-Experience)
 - [Contacts](#Contacts)
+  
 # About
 Application Management Specialist, supporting commission calculation systems in the telecom domain.
 
 Day-to-day work involves Oracle PL/SQL, ODI ETL pipelines, and Linux scripting. Background in Data Science from SIIT, Thammasat — with some Python and SQL projects from university and internship days.
 
 Currently looking to grow into Data Engineering or BA roles. This repo is where I document that journey.
+
+# Work Experience
+### Tata Consultancy Services (TCS) Thailand — Application Management Specialist
+
+**Duration:** Jan 2025 - Present
+
+* **Served as the primary technical point of contact** for the commission calculation team — covering system issues and user requirements in the telecom domain.
+* **Identified root causes of calculation anomalies** by tracing legacy PL/SQL procedures and ODI ETL jobs; resolved issues or escalated to SA/DA when necessary.
+* **Introduced automation solutions** that significantly reduced manual processing time and freed up capacity for higher priority initiatives.
+* **Monitored, troubleshot, and resolved data source issues** to ensure completeness and readiness for each commission calculation period.
+* **Assisted the team** in analysing data and supporting ad-hoc investigations.
+* **Conducted UAT, performed production deployment, and executed sanity tests** to verify system changes met business requirements before go-live.
+* **Coordinated cross-functional investigations** and communicated resolution plans across Finance, Dealer, and IT teams.
+
+  
+### KPMG Thailand Data and Analytics Internship
+
+**Duration:** Jun 2023 - Jul 2023
+
+* Contributed to a Data Pipeline by performing data ingestion through web scraping (Python, BeautifulSoup/Scrapy) and conducting data cleaning and transformation using Pandas and SQL to prepare ESG datasets for analysis.
+* Developed decision-support tools based on AHP methodology; delivered a knowledge-sharing presentation that improved team decision-making efficiency. 
 
 
 # Projects
@@ -96,26 +118,6 @@ Currently looking to grow into Data Engineering or BA roles. This repo is where 
 * Bachelor of Engineering - BE, Digital Engineering (Exchange Student)
 * Duration: Feb 2024 - Jun 2024
 
-# Work Experience
-### Tata Consultancy Services (TCS) Thailand — Application Management Specialist
-
-**Duration:** Jan 2025 - Present
-
-* **Served as the primary technical point of contact** for the commission calculation team — covering system issues and user requirements in the telecom domain.
-* **Identified root causes of calculation anomalies** by tracing legacy PL/SQL procedures and ODI ETL jobs; resolved issues or escalated to SA/DA when necessary.
-* **Introduced automation solutions** that significantly reduced manual processing time and freed up capacity for higher priority initiatives.
-* **Monitored, troubleshot, and resolved data source issues** to ensure completeness and readiness for each commission calculation period.
-* **Assisted the team** in analysing data and supporting ad-hoc investigations.
-* **Conducted UAT, performed production deployment, and executed sanity tests** to verify system changes met business requirements before go-live.
-* **Coordinated cross-functional investigations** and communicated resolution plans across Finance, Dealer, and IT teams.
-
-  
-### KPMG Thailand Data and Analytics Internship
-
-**Duration:** Jun 2023 - Jul 2023
-
-* Contributed to a Data Pipeline by performing data ingestion through web scraping (Python, BeautifulSoup/Scrapy) and conducting data cleaning and transformation using Pandas and SQL to prepare ESG datasets for analysis.
-* Developed decision-support tools based on AHP methodology; delivered a knowledge-sharing presentation that improved team decision-making efficiency. 
 
 # Contacts
 * yanisapareephan@gmail.com

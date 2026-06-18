@@ -1,22 +1,20 @@
-# Yanisa Pareephan - Data Analyst Portfolio
+# Yanisa Pareephan - Portfolio
 
 # Table of Contents
 - [About](#About)
 - [Projects](#Projects)
   - [Data Analysis & Machine Learning](#data-analysis--machine-learning)
   - [Web Development](#Web-Development)
-  - [Other Potential Projects](#Other-Potential-Projects)
 - [Education](#Education)
 - [Work Experience](#Work-Experience)
 - [Contacts](#Contacts)
 # About
-Hi, I’m Yanisa! I recently graduated with a degree in Digital Engineering, specializing in Data Science. I am passionate about uncovering insights from data and leveraging them to drive impactful decisions.
+Application Management Specialist, supporting commission calculation systems in the telecom domain.
 
-I have a strong foundation in data analytics, machine learning, and statistical analysis, with hands-on experience in web scraping, data visualization, and advanced modeling. I thrive on solving complex problems and turning data into actionable insights.
+Day-to-day work involves Oracle PL/SQL, ODI ETL pipelines, and Linux scripting. Background in Data Science from SIIT, Thammasat — with some Python and SQL projects from university and internship days.
 
-This repository showcases my projects, tracks my progress, and highlights my journey in Data Analytics and Data Science.
+Currently looking to grow into Data Engineering or BA roles. This repo is where I document that journey.
 
-[View my CV (PDF)](https://drive.google.com/file/d/1JRHSP6539UgDUnyXDexaxj3CwOBtUWrT/view?usp=sharing)
 
 # Projects
 ## Data Analysis & Machine Learning
@@ -50,12 +48,6 @@ This repository showcases my projects, tracks my progress, and highlights my jou
 * Integrated the system with Streamlit for easy user interaction.
 * `Python, Streamlit`
   
-**Next-Day Rainfall Prediction Using ANN** | 
-[Document](https://docs.google.com/document/d/1qGLO0NMACYwWtewJZd0w8J89HSlUCcFBqvuV0oPfPS8/edit?usp=sharing)
-* Developed an artificial neural network (ANN) model to forecast next-day rainfall.
-* Implemented data preprocessing, feature scaling, and hyperparameter tuning.
-* Enhanced accuracy through exploratory analysis and cyclic encoding.
-* `Python`
 
 **MK database System Project** | 
 [Document](https://www.canva.com/design/DAFS8idV3hM/QFRLZZbCOdRBlAwpkjKANA/view?utm_content=DAFS8idV3hM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3b06b0dcee) | 
@@ -93,14 +85,6 @@ This repository showcases my projects, tracks my progress, and highlights my jou
     * Messaging API for personalized communication.
 * `Dialogflow, Line OA`
 
-## Other Potential Projects
-
-**BubieMail** | 
-[Document](https://drive.google.com/file/d/1L0exq4CfIZQ4GXT_EZNUcMiFKxx2eoXo/view?usp=sharing)
-* Developed a secure email communication platform with enhanced security features:
-* Implemented RSA encryption and digital signatures to ensure the confidentiality, authenticity, and integrity of messages.
-* Designed and implemented end-to-end encryption workflows for account creation, message composition, and verification.
-* Provided a robust and secure communication solution for users.
 
 # Education
 **Sirindhorn International Institute of Technology (SIIT), Thammasat University**
@@ -117,15 +101,21 @@ This repository showcases my projects, tracks my progress, and highlights my jou
 
 **Duration:** Jan 2025 - Present
 
-* Delivered L1 and L2 technical support for a Commission Management system, ensuring SLA-compliant issue resolution.
-* Monitored and maintained system health using Splunk, BMC, and AWS tools.
+* **Served as the primary technical point of contact** for the commission calculation team — covering system issues and user requirements in the telecom domain.
+* **Identified root causes of calculation anomalies** by tracing legacy PL/SQL procedures and ODI ETL jobs; resolved issues or escalated to SA/DA when necessary.
+* **Introduced automation solutions** that significantly reduced manual processing time and freed up capacity for higher priority initiatives.
+* **Monitored, troubleshot, and resolved data source issues** to ensure completeness and readiness for each commission calculation period.
+* **Assisted the team** in analysing data and supporting ad-hoc investigations.
+* **Conducted UAT, performed production deployment, and executed sanity tests** to verify system changes met business requirements before go-live.
+* **Coordinated cross-functional investigations** and communicated resolution plans across Finance, Dealer, and IT teams.
+
   
 ### KPMG Thailand Data and Analytics Internship
 
 **Duration:** Jun 2023 - Jul 2023
 
-* **ESG Data Analysis:** Applied web scraping techniques to gather and preprocess ESG data from various sources. Utilized the extracted insights to support the Generative AI project team in achieving their objectives.
-* **AHP Methodology:** Researched the Analytic Hierarchy Process (AHP) and developed tools to facilitate its implementation. Presented AHP concepts to employees through a comprehensive presentation, fostering knowledge exchange and improving decision-making processes. This initiative led to a reduction in workload and increased employee efficiency.
+* Contributed to a Data Pipeline by performing data ingestion through web scraping (Python, BeautifulSoup/Scrapy) and conducting data cleaning and transformation using Pandas and SQL to prepare ESG datasets for analysis.
+* Developed decision-support tools based on AHP methodology; delivered a knowledge-sharing presentation that improved team decision-making efficiency. 
 
 # Contacts
 * yanisapareephan@gmail.com
